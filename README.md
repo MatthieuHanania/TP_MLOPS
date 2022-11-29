@@ -8,5 +8,7 @@ I got the message : "  console.log
 
 I tried to download it on my computer, but it does not work
 
+But when I execute the test on another computer with chrome, it works.
+
 
 Futhemore, the timeout function is not workind. So I modify the test system in the config file of the frontend.
